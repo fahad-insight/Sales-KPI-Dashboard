@@ -1,18 +1,18 @@
 # Sales KPI Dashboard
 
 ## Project Overview
-This project is a dynamic **Sales KPI Dashboard** designed to help organizations track, analyze, and visualize key sales metrics. It provides an interactive view of sales performance, revenue trends, customer behavior, and product performance, enabling data-driven decision-making for managers and executives.
+This project is a dynamic **Sales KPI Dashboard** designed to help organizations track, analyze, and visualize key sales metrics. It provides an interactive view of sales performance, revenue trends, customer behavior, and product performance, enabling data-driven decision-making for managers and executives,
 
 ## Objective
 - Monitor monthly and quarterly sales performance.
 - Identify top-performing products and regions.
 - Detect trends, anomalies, and seasonal variations in sales.
-- Support strategic planning and operational improvements.
+- Support strategic planning and operational improvements,
 
 ## Tools & Skills
 - **Power BI**: Created interactive dashboards, KPI cards, and visual analytics; used DAX for calculations and measures.  
 - **Excel**: Performed data cleaning, applied formulas (VLOOKUP, INDEX-MATCH), and built PivotTables for preliminary analysis.  
-- **SQL**: Extracted and aggregated sales data using complex queries, joins, and filtering.
+- **SQL**: Extracted and aggregated sales data using complex queries, joins, and filtering,
 
 ## Project Files
 - `data/` → Sample sales dataset with products, regions, and transactions.  
